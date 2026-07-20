@@ -19,4 +19,4 @@
 3. 运行程序：`python weather_agent.py`
 
 ## 📸 运行效果
-输入 `云浮市` → 输出 `云浮市，阴，26°C`
+![天气查询演示](weather_demo.png)
